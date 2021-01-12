@@ -20,7 +20,7 @@ I began my coding journey while trying to find an app that would help my clients
 
 I'm an alumnus of [Makers](https://makers.tech/), looking for my first role as a Junior FrontEnd Developer. 
 
-I originally studied Computer Science at Kingston University before becoming a Personal Trainer, whilst being with individuals on a daily basis I believe I have strong people skills as each client I trained was different and this helped me adapt to each one.  Similar to programming each client is like a project and has specifications of what they want to achieve within a given time. My client turned mentor [Patrick](https://github.com/paddyo) has helped guide me during my transition. 
+I originally studied Computer Science at Kingston University before becoming a Personal Trainer, whilst being with individuals on a daily basis I believe I have strong people skills as each client I trained was different and this helped me adapt to each one.  Similar to programming each client is like a project and has specifications of what they want to achieve within a given time. My client turned mentor [Patrick Orrell](https://github.com/paddyo) has helped guide me during my transition. 
 
 
 
