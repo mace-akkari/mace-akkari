@@ -46,3 +46,7 @@ I originally studied Computer Science at Kingston University before becoming a P
 * Databases: PostgreSQL
 * Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Cypress
 * CI/CD: Travis CI
+
+
+#### Kingston University  - Diploma in Computing (Sep 2004 - Dec 2006) 
+
