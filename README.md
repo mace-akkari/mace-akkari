@@ -31,6 +31,7 @@ I originally studied Computer Science at Kingston University before becoming a P
 | [BruhBook (Facebook Clone)](https://github.com/harrylb14/acebook-onlyfoursandhorses) - [Heroku deployment](https://intense-scrubland-58731.herokuapp.com/)| As team we came together to recreate our own version of Facebook. Authentication system written from scratch. | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI\CD |
 | [BetMace – slot machine]( https://github.com/mace-akkari/Fruit-Machine) | A slot machine game where I learnt the use of cookies| JavaScript, HTML/CSS | None|
 
+#### Please check on my [portfolio](https://mace-akkari.github.io/personalSite) for more projects.
 
 
 
