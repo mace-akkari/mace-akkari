@@ -48,5 +48,5 @@ I originally studied Computer Science at Kingston University before becoming a P
 * CI/CD: Travis CI
 
 
-#### Kingston University  - Diploma in Computing (Sep 2004 - Dec 2006) 
+#### Kingston University  - Diploma in Computing (Sep 2004 - Jun 2006) 
 
