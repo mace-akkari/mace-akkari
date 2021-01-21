@@ -14,13 +14,16 @@
 
 # Motivation
 
-I began my coding journey while trying to find an app that would help my clients and I, the specification I wanted were not on any app. My client who is a senior developer suggested I build my own, I stared understanding what programming is with Python then quickly realised my passion for Front-end in particular JavaScript. Whilst self-learning I found myself dreaming of the code and that it was on my mind all the time. It had become clear to me I was enjoying myself coding and wanted to make it a career.  
+I began my coding journey while trying to find an app that would help my clients and I with their training routine. I wanted an app that would allow me to take videos of them while they were doing their workout, track their progress and a booking system. As most of them would need a few sessions before fully understanding how to do the routine properly, this was affecting our results and having an app like this, it would have accelerated their progression and reach their target faster. 
+
+I couldn’t find an app on the market and so, with the help of one of my clients, I built my own. I started to understand what programming was with Python and moved on JavaScript. During my time at Makers, I also studied Ruby and enjoyed learning another language. Whilst self-learning I found myself dreaming of the code and that it was on my mind all the time. It became clear to me I was enjoying myself coding and wanted to make it a career. 
+
 
 # Background
 
 I'm an alumnus of [Makers](https://makers.tech/), looking for my first role as a Junior FrontEnd Developer. 
 
-I originally studied Computer Science at Kingston University before becoming a Personal Trainer, whilst being with individuals on a daily basis I believe I have strong people skills as each client I trained was different and this helped me adapt to each one.  Similar to programming each client is like a project and has specifications of what they want to achieve within a given time. My client turned mentor [Patrick Orrell](https://github.com/paddyo) has helped guide me during my transition. 
+I originally studied Computer Science at Kingston University before becoming a Personal Trainer. Training individuals on a daily basis has enhanced my people skills. Every client is different, and I am able to adapt effectively to each one. Similar to programming, each client is like a project and has specifications of what they want to achieve within a given time. My client, now mentor,  [Patrick Orrell](https://github.com/paddyo) has helped guide me during my transition. 
 
 
 
