@@ -16,7 +16,7 @@
 
 I began my coding journey while trying to find an app that would help my clients and I with their training routine. I wanted an app that would allow me to take videos of them while they were doing their workout, track their progress and a booking system. As most of them would need a few sessions before fully understanding how to do the routine properly, this was affecting our results and having an app like this, it would have accelerated their progression and reach their target faster. 
 
-I couldn’t find an app on the market and so, with the help of one of my clients, I built my own. I started to understand what programming was with Python and moved on JavaScript. During my time at Makers, I also studied Ruby and enjoyed learning another language. Whilst self-learning I found myself dreaming of the code and that it was on my mind all the time. It became clear to me I was enjoying myself coding and wanted to make it a career. 
+I couldn’t find an app on the market and so, with the help of one of my clients, I attempted to build my own. I started to understand what programming was with Python and moved on JavaScript. During my time at Makers, I also studied Ruby and enjoyed learning another language. Whilst self-learning I found myself dreaming of the code and that it was on my mind all the time. It became clear to me I was enjoying myself coding and wanted to make it a career. 
 
 
 # Background
