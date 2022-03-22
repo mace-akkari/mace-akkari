@@ -1,7 +1,6 @@
 <h1 align="center">Mace Akkari</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/maceakkari/">
-<img src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <div align="center">
  
@@ -21,7 +20,7 @@ I couldn’t find an app on the market and so, with the help of one of my client
 
 # Background
 
-I'm an alumnus of [Makers](https://makers.tech/), looking for my first role as a Junior FrontEnd Developer. 
+I am a currently a junior frontend developer at ReLyfe, my daily tasks include coding in React and TypeScript, while also testing using Cypress. 
 
 I originally studied Computer Science at Kingston University before becoming a Personal Trainer. Training individuals on a daily basis has enhanced my people skills. Every client is different, and I am able to adapt effectively to each one. Similar to programming, each client is like a project and has specifications of what they want to achieve within a given time. My client, now mentor,  [Patrick Orrell](https://github.com/paddyo) has helped guide me during my transition. 
 
