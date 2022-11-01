@@ -39,7 +39,7 @@ I originally studied Computer Science at Kingston University before becoming a P
 
 # Education
 
-#### Makers Academy - Software development bootcamp (Sep 2020 - Dec 2020) 
+#### Makers Academy - Software development bootcamp (Dec 2020) 
 * Agile Software Development
 * XP Values
 * Test-Driven Development 
@@ -50,5 +50,5 @@ I originally studied Computer Science at Kingston University before becoming a P
 * CI/CD: Travis CI
 
 
-#### Kingston University  - Diploma in Computing (Sep 2004 - Jun 2006) 
+#### Kingston University  - Diploma in Computing
 
