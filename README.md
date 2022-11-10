@@ -20,7 +20,7 @@ I couldn’t find an app on the market and so, with the help of one of my client
 
 # Background
 
-I am a currently a junior frontend developer at ReLyfe, my daily tasks include coding in React and TypeScript, while also testing using Cypress. 
+Previously a junior frontend developer at ReLyfe, my daily tasks included coding in React and TypeScript, while also testing using Cypress. 
 
 I originally studied Computer Science at Kingston University before becoming a Personal Trainer. Training individuals on a daily basis has enhanced my people skills. Every client is different, and I am able to adapt effectively to each one. Similar to programming, each client is like a project and has specifications of what they want to achieve within a given time. My client, now mentor,  [Patrick Orrell](https://github.com/paddyo) has helped guide me during my transition. 
 
