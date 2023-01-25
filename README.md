@@ -27,12 +27,10 @@ I originally studied Computer Science at Kingston University before becoming a P
 
 
 # Projects
-| Title | Description | Technologies Used | Test Suites/CIs/CDs Employed |
-|--|--|--|--|
+| Title | Description | Technologies Used |
+|--|--|--|
 | [ The Martian ](https://github.com/mace-akkari/The-Martian) - [Deployed on Vercel](https://vercel.com/mace-akkari/the-martian) | After watching the film The Martain, I decided to build a scene from it.   | React, JavaScript, HTML/CSS |
- 
-| [Mace Blogs (Meduim Clone)](https://github.com/mace-akkari/next.js_blog_site) - [Deployed on Vercel](https://vercel.com/mace-akkari/next-js-blog-site)| A. | Next.Js, HTML/CSS (Bootstrap), JavaScript, Sanity|
- 
+| [Mace Blogs (Meduim Clone)](https://github.com/mace-akkari/next.js_blog_site) - [Deployed on Vercel](https://vercel.com/mace-akkari/next-js-blog-site)| A clone of the blogging site Medium, where I used Sainty to store data and approve a users comment. | Next.Js, HTML/CSS (Bootstrap), JavaScript, Sanity |
 | [BetMace – slot machine]( https://github.com/mace-akkari/Fruit-Machine) | A slot machine game where I learnt the use of cookies| JavaScript, HTML/CSS |
 
 #### Please check on my [portfolio](https://mace-akkari.github.io/personalSite) for more projects.
