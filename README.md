@@ -28,10 +28,12 @@ I originally studied Computer Science at Kingston University before becoming a P
 
 # Projects
 | Title | Description | Technologies Used | Test Suites/CIs/CDs Employed |
-|--|--|--|--|
-| [CatchMe - Browser-based running app](https://github.com/mace-akkari/catchme-web) - [Heroku deployment]() | In a team of four we built a running game that tracks you and your friends  using gps .   | React, JavaScript, HTML/CSS | Cypress, Travis CI/CD |
-| [BruhBook (Facebook Clone)](https://github.com/mace-akkari/bruh-in-react) - [Heroku deployment](https://intense-scrubland-58731.herokuapp.com/)| As team we came together to recreate our own version of Facebook. Authentication system written from scratch. | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI\CD |
-| [BetMace – slot machine]( https://github.com/mace-akkari/Fruit-Machine) | A slot machine game where I learnt the use of cookies| JavaScript, HTML/CSS | None|
+|--|--|--|
+| [ The Martian ](https://github.com/mace-akkari/The-Martian) - [Deployed on Vercel](https://vercel.com/mace-akkari/the-martian) | After watching the film The Martain, I decided to build a scene from it.   | React, JavaScript, HTML/CSS |
+ 
+| [Mace Blogs (Meduim Clone)](https://github.com/mace-akkari/next.js_blog_site) - [Deployed on Vercel](https://vercel.com/mace-akkari/next-js-blog-site)| A. | Next.Js, HTML/CSS (Bootstrap), JavaScript, Sanity|
+ 
+| [BetMace – slot machine]( https://github.com/mace-akkari/Fruit-Machine) | A slot machine game where I learnt the use of cookies| JavaScript, HTML/CSS |
 
 #### Please check on my [portfolio](https://mace-akkari.github.io/personalSite) for more projects.
 
