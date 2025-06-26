@@ -36,22 +36,13 @@ My background in personal training and Computer Science gives me a unique perspe
 | [Mace Blogs (Meduim Clone)](https://github.com/mace-akkari/next.js_blog_site) - [Deployed on Vercel](https://vercel.com/mace-akkari/next-js-blog-site)| A clone of the blogging site Medium, where I used Sainty to store data and approve a users comment. | Next.Js, HTML/CSS (Bootstrap), JavaScript, Sanity |
 | [BetMace – slot machine]( https://github.com/mace-akkari/Fruit-Machine) | A slot machine game where I learnt the use of cookies| JavaScript, HTML/CSS |
 
-#### Please check on my [portfolio](https://mace-akkari.github.io/personalSite) for more projects.
+#### Please check on my [portfolio](https://developer-mace.vercel.app) for more projects.
 
 
 
 # Education
 
 #### Makers Academy - Software development bootcamp (Dec 2020) 
-* Agile Software Development
-* XP Values
-* Test-Driven Development 
-* Languages: Ruby, Javascript, HTML/CSS
-* Web Frameworks: Ruby on Rails, React, Sinatra
-* Databases: PostgreSQL
-* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Cypress
-* CI/CD: Travis CI
-
 
 #### Kingston University  - Diploma in Computing
 
