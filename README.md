@@ -13,16 +13,19 @@
 
 # Motivation
 
-I began my coding journey while trying to find an app that would help my clients and I with their training routine. I wanted an app that would allow me to take videos of them while they were doing their workout, track their progress and a booking system. As most of them would need a few sessions before fully understanding how to do the routine properly, this was affecting our results and having an app like this, it would have accelerated their progression and reach their target faster. 
+My journey into coding started while I was working as a personal trainer. I needed an app to help track client progress, manage bookings, and capture workout videos — but nothing available suited my needs. With encouragement from a client, I decided to build my own solution.
 
-I couldn’t find an app on the market and so, with the help of one of my clients, I attempted to build my own. I started to understand what programming was with Python and moved on JavaScript. During my time at Makers, I also studied Ruby and enjoyed learning another language. Whilst self-learning I found myself dreaming of the code and that it was on my mind all the time. It became clear to me I was enjoying myself coding and wanted to make it a career. 
-
+That led me to programming, starting with Python, then diving into JavaScript. I later trained at Makers, where I explored Ruby and deepened my passion for development. Coding quickly became more than a skill, it was something I thought about constantly and knew I wanted to pursue professionally.
 
 # Background
 
-Previously a junior frontend developer at ReLyfe, my daily tasks included coding in React and TypeScript, while also testing using Cypress. 
+I’m a full-stack developer based in London, with hands-on experience building scalable, high-performing web apps using TypeScript, React, Next.js, Tailwind CSS, and Sanity.
 
-I originally studied Computer Science at Kingston University before becoming a Personal Trainer. Training individuals on a daily basis has enhanced my people skills. Every client is different, and I am able to adapt effectively to each one. Similar to programming, each client is like a project and has specifications of what they want to achieve within a given time. My client, now mentor,  [Patrick Orrell](https://github.com/paddyo) has helped guide me during my transition. 
+I previously worked at Upstream, a streetwear rental platform, where I collaborated closely with the co-founder to shape the product, led feature development, delivered stakeholder presentations, and helped transition the app from mobile to web.
+
+Before that, I was a developer at Clu, a tech-driven recruitment platform, where I implemented Google Analytics & GTM, enhanced platform functionality, and improved team workflows. I also worked at ReLyfe, a medical startup, focusing on mobile-first development, code refactoring, and Cypress testing.
+
+My background in personal training and Computer Science gives me a unique perspective — I understand people, goals, and how to build systems that genuinely help. I continue to be mentored by [Patrick Orrell](https://github.com/paddyo), the client who first nudged me toward software development. 
 
 
 
