@@ -13,7 +13,7 @@
 
 # Motivation
 
-My journey into coding started while I was working as a personal trainer. I needed an app to help track client progress, manage bookings, and capture workout videos — but nothing available suited my needs. With encouragement from a client, I decided to build my own solution.
+My journey into coding started while I was working as a personal trainer. I needed an app to help track client progress, manage bookings, and capture workout videos, but nothing available suited my needs. With encouragement from a client, I decided to build my own solution.
 
 That led me to programming, starting with Python, then diving into JavaScript. I later trained at Makers, where I explored Ruby and deepened my passion for development. Coding quickly became more than a skill, it was something I thought about constantly and knew I wanted to pursue professionally.
 
