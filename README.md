@@ -37,7 +37,7 @@ My background in personal training and Computer Science gives me a unique perspe
 | [Company Dashboard](https://github.com/mace-akkari/BRR-Dashboard) - [Deployed on Vercel](https://brr-dashboard-xi.vercel.app) | A dashboard for a media company.| Next.js, Tailwind CSS, Material-UI |
 | [WhatsApp Chat](https://github.com/mace-akkari/whatsapp-next.js) - [Deployed on Vercel](https://whatsapp-mace-akkari.vercel.app) | A WhatsApp-style chat app with Google login and persistent local chat history.| Next.js, Firebase, CSS, Material-UI |
 
-#### Please check on my [portfolio]([https://mace-portfolio.vercel.app/)](https://mace-portfolio.vercel.app/) for more projects.
+#### Please check on my [portfolio]([https://mace-portfolio.vercel.app)] for more projects.
 
 
 
